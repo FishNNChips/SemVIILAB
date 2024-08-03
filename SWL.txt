@@ -1,0 +1,36 @@
+Exp1 :-
+Q1 What is the significance of namespace in RDF??
+Q2 How does RDF/XML differ from turtle format?
+Q3 What are RDF triples and how are they structured?
+Q4 How does SPA RQL helps in querying RDF data? Also list the advantages of the same.
+Q5 Explain Serialization for RDF.
+
+Exp2 :-
+Q1 
+Q2 
+Q3 
+Q4 
+
+Exp3 :-
+Q1 
+Q2 
+Q3 
+Q4 
+
+Exp4 :-
+Q1 
+Q2 
+Q3 
+Q4 
+
+Exp5 :-
+Q1 
+Q2 
+Q3 
+Q4 
+
+Exp6 :-
+Q1 
+Q2 
+Q3 
+Q4 
